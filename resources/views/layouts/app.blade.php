@@ -8,7 +8,7 @@
     <meta name="description" content="Laravel AJAX CRUD with Server Side Validation by IDStack">
     <meta name="author" content="IDStack">
     {{-- CSRF TOKEN --}}
-    <meta name="csrf_token" content="{{ csrf_token() }}" />
+    <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <link rel="icon" href="{{ asset('assets/img/favicon.ico') }}">
 
